@@ -2,8 +2,9 @@
 cusp-edap2
 ==========
 
+.. image:: https://travis-ci.org/Mohitsharma44/cusp-edap2.svg?branch=master
+         :target: https://travis-ci.org/Mohitsharma44/cusp-edap2
 
-Add a short description here!
 
 
 Description
